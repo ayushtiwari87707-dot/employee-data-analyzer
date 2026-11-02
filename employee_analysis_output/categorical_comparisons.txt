@@ -1,0 +1,88 @@
+
+========================================================================
+Education compared with City
+City       Bangalore  New Delhi  Pune
+Education                            
+Bachelors       1016        352   603
+Masters          112        349   176
+PHD               43         91    22
+
+Row percentages:
+City       Bangalore  New Delhi  Pune
+Education                            
+Bachelors       51.5       17.9  30.6
+Masters         17.6       54.8  27.6
+PHD             27.6       58.3  14.1
+
+========================================================================
+Education compared with Gender
+Gender     Female  Male
+Education              
+Bachelors     894  1077
+Masters       278   359
+PHD            63    93
+
+Row percentages:
+Gender     Female  Male
+Education              
+Bachelors    45.4  54.6
+Masters      43.6  56.4
+PHD          40.4  59.6
+
+========================================================================
+Education compared with EverBenched
+EverBenched    No  Yes
+Education             
+Bachelors    1685  286
+Masters       565   72
+PHD           153    3
+
+Row percentages:
+EverBenched    No   Yes
+Education              
+Bachelors    85.5  14.5
+Masters      88.7  11.3
+PHD          98.1   1.9
+
+========================================================================
+City compared with Gender
+Gender     Female  Male
+City                   
+Bangalore     428   743
+New Delhi     432   360
+Pune          375   426
+
+Row percentages:
+Gender     Female  Male
+City                   
+Bangalore    36.5  63.5
+New Delhi    54.5  45.5
+Pune         46.8  53.2
+
+========================================================================
+City compared with EverBenched
+EverBenched   No  Yes
+City                 
+Bangalore    994  177
+New Delhi    708   84
+Pune         701  100
+
+Row percentages:
+EverBenched    No   Yes
+City                   
+Bangalore    84.9  15.1
+New Delhi    89.4  10.6
+Pune         87.5  12.5
+
+========================================================================
+Gender compared with EverBenched
+EverBenched    No  Yes
+Gender                
+Female       1098  137
+Male         1305  224
+
+Row percentages:
+EverBenched    No   Yes
+Gender                 
+Female       88.9  11.1
+Male         85.3  14.7

@@ -1,0 +1,6 @@
+,JoiningYear,PaymentTier,Age,ExperienceInCurrentDomain,LeaveOrNot
+JoiningYear,1.0,-0.054,0.024,-0.031,0.151
+PaymentTier,-0.054,1.0,0.068,-0.005,-0.12
+Age,0.024,0.068,1.0,-0.053,-0.115
+ExperienceInCurrentDomain,-0.031,-0.005,-0.053,1.0,-0.021
+LeaveOrNot,0.151,-0.12,-0.115,-0.021,1.0
